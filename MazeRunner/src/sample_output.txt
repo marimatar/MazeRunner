@@ -1,0 +1,541 @@
+#####
+#@#x#
+#@# #
+#@  #
+#####
+turn: 0
+runners remaining: 3
+#####
+# #x#
+#@# #
+#@@ #
+#####
+turn: 1
+runners remaining: 3
+press q to quit, anything else to continue
+c
+#####
+#@#x#
+# # #
+# @@#
+#####
+turn: 2
+runners remaining: 3
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@#@#
+#  @#
+#####
+turn: 3
+runners remaining: 3
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+#@@ #
+#####
+turn: 4
+runners remaining: 2
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#  @#
+#####
+turn: 5
+runners remaining: 2
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+#@@ #
+#####
+turn: 6
+runners remaining: 2
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#  @#
+#####
+turn: 7
+runners remaining: 2
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# #@#
+#@  #
+#####
+turn: 8
+runners remaining: 2
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+# @@#
+#####
+turn: 9
+runners remaining: 2
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# #@#
+#@  #
+#####
+turn: 10
+runners remaining: 2
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#   #
+#####
+turn: 11
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+#@#x#
+# # #
+#   #
+#####
+turn: 12
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#   #
+#####
+turn: 13
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+#@#x#
+# # #
+#   #
+#####
+turn: 14
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#   #
+#####
+turn: 15
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+#@#x#
+# # #
+#   #
+#####
+turn: 16
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#   #
+#####
+turn: 17
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+#@  #
+#####
+turn: 18
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#   #
+#####
+turn: 19
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+#@#x#
+# # #
+#   #
+#####
+turn: 20
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#   #
+#####
+turn: 21
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+#@  #
+#####
+turn: 22
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#   #
+#####
+turn: 23
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+#@#x#
+# # #
+#   #
+#####
+turn: 24
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#   #
+#####
+turn: 25
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+#@  #
+#####
+turn: 26
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+# @ #
+#####
+turn: 27
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+#@  #
+#####
+turn: 28
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#   #
+#####
+turn: 29
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+#@#x#
+# # #
+#   #
+#####
+turn: 30
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#   #
+#####
+turn: 31
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+#@#x#
+# # #
+#   #
+#####
+turn: 32
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#   #
+#####
+turn: 33
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+#@#x#
+# # #
+#   #
+#####
+turn: 34
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#   #
+#####
+turn: 35
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+#@  #
+#####
+turn: 36
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+# @ #
+#####
+turn: 37
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+#@  #
+#####
+turn: 38
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#   #
+#####
+turn: 39
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+#@#x#
+# # #
+#   #
+#####
+turn: 40
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#   #
+#####
+turn: 41
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+#@#x#
+# # #
+#   #
+#####
+turn: 42
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#   #
+#####
+turn: 43
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+#@  #
+#####
+turn: 44
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+# @ #
+#####
+turn: 45
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+#@  #
+#####
+turn: 46
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#   #
+#####
+turn: 47
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+#@  #
+#####
+turn: 48
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#   #
+#####
+turn: 49
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+#@#x#
+# # #
+#   #
+#####
+turn: 50
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+#@# #
+#   #
+#####
+turn: 51
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+#@  #
+#####
+turn: 52
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+# @ #
+#####
+turn: 53
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+#  @#
+#####
+turn: 54
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+# @ #
+#####
+turn: 55
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+#  @#
+#####
+turn: 56
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# #@#
+#   #
+#####
+turn: 57
+runners remaining: 1
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+#   #
+#####
+turn: 58
+runners remaining: 0
+press q to quit, anything else to continue
+c
+#####
+# #x#
+# # #
+#   #
+#####
+turn: 59
+runners remaining: 0
+PrudentBot exited on turn: 4
+PrudentBot exited on turn: 11
+PrudentBot exited on turn: 58
+
+Process finished with exit code 0
